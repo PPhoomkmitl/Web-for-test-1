@@ -1,0 +1,191 @@
+body {
+  font-family: "Kanit", sans-serif;
+}
+.contain1 {
+  padding-left: 90px;
+  padding-right: 10px;
+  border: 0ch;
+}
+table,
+th,
+td {
+  border: 2px solid rgb(223, 143, 45);
+  border-collapse: collapse;
+  margin: 0px 425px;
+  background-color: rgb(253, 253, 153);
+}
+
+.room {
+  background-color: rgb(229, 252, 103);
+}
+.room2 {
+  background-color: rgb(247, 175, 21);
+}
+hr {
+  height: 5px;
+  width: 1400px;
+  background-color: chocolate;
+}
+.contain {
+  background-color: rgb(245, 124, 10);
+}
+.contain h2 {
+  background-color: rgb(153, 28, 28);
+  text-align: center;
+  height: 30px;
+  margin: auto;
+  width: 591px;
+}
+/* .contain h2 {
+  text-align: center;
+  margin-top: 2px;
+  margin-bottom: 10px; 
+}*/
+.num {
+  text-align: center;
+}
+.news {
+  width: 500px;
+}
+.head1 {
+  background-color: rgb(153, 28, 28);
+  width: 300px;
+  text-align: center;
+}
+#head1 {
+  width: 1440px;
+  color: rgb(255, 196, 0);
+}
+.picman {
+  position: absolute;
+  left: 257px;
+  top: 26px;
+}
+.form {
+  background-color: brown;
+  color: black;
+  width: 700px;
+}
+.form fieldset {
+  border-color: black;
+}
+.chanel {
+  position: absolute;
+  left: 900px;
+  bottom: 470px;
+}
+.youtube {
+  position: relative;
+  left: 885px;
+  /* bottom: 320px; */
+  top: -400px;
+}
+.main {
+  display: flex;
+  justify-content: center;
+  position: -webkit-sticky;
+  position: sticky;
+  grid-gap: 10px;
+  background-color: rgb(248, 118, 11);
+  padding: 10px;
+}
+.item-1 {
+  background-color: antiquewhite;
+  padding: 10px;
+  font-size: 20px;
+}
+/* background-color: rgb(245, 148, 3);
+  margin-left: 90px;
+  margin-right: 102px;
+  width: 1249px;
+  position: sticky; */
+
+.pic img {
+  background-color: burlywood;
+  padding: 35.5px;
+  border: 9px groove brown;
+  display: inline;
+}
+.pic-1 {
+  height: 500px;
+}
+.watpradu {
+  background-color: brown;
+  width: 375px;
+  text-align: center;
+  margin-bottom: -20px;
+}
+#Mhut {
+  position: relative;
+  left: 791px;
+  /* bottom: 320px; */
+  top: 30px;
+}
+#Mhut1 {
+  position: absolute;
+  left: 100px;
+  top: 355px;
+}
+.story {
+  position: absolute;
+  background-color: burlywood;
+  top: 845px;
+  right: 70px;
+  left: 390px;
+  width: 900px;
+  padding: 2px 80px 34px 13px;
+  padding-bottom: 180px;
+}
+
+.tem {
+  text-align: center;
+}
+.space_img {
+  margin-left: 135px;
+}
+
+.price {
+  background-color: aqua;
+  width: 200px;
+}
+.box {
+  display: inline-block;
+  width: 300px;
+  height: 100px;
+  background: brown;
+  color: rgb(250, 158, 20);
+  text-align: center;
+}
+#one {
+  position: relative;
+  left: 135px;
+}
+#two {
+  position: relative;
+  bottom: 23px;
+  left: 270px;
+}
+#three {
+  position: relative;
+  left: 405px;
+  bottom: 23px;
+}
+#box4 {
+  background-color: black;
+  max-width: 1500px;
+  padding-right: 1140px;
+  padding-bottom: 255px;
+  margin-top: 10px;
+}
+marquee {
+  word-spacing: 100px;
+  background-color: brown;
+  border: 5px solid black;
+  color: aqua;
+}
+.sound {
+  position: absolute;
+  position: sticky;
+  top: 10px;
+  right: 10px;
+}
